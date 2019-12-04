@@ -1,0 +1,8 @@
+node_modules
+nopush
+//test
+.dist
+.vscode
+no.md
+env.json
+package-lock.json
